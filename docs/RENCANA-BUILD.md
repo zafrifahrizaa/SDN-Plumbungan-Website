@@ -41,10 +41,10 @@ Pengumpulan data pada [PRD Lampiran 19](./PRD.md#19-lampiran-data-yang-dibutuhka
 
 ## Fase 3: Halaman informasi
 
-- [ ] Beranda dari data sungguhan (FR-01).
-- [ ] `/ekstrakurikuler` dengan filter hari (FR-01).
-- [ ] `/ekstrakurikuler/[slug]` (FR-02).
-- [ ] `/jadwal` (FR-03).
+- [x] Beranda dari data sungguhan (FR-01).
+- [x] `/ekstrakurikuler` dengan filter hari (FR-01).
+- [x] `/ekstrakurikuler/[slug]` (FR-02).
+- [x] `/jadwal` (FR-03).
 
 **Selesai bila:** semua halaman membaca dari database; kuota sisa benar; Lighthouse mobile Performance ≥ 80 pada Beranda.
 
