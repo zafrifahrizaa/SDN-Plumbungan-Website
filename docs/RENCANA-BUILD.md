@@ -33,9 +33,9 @@ Pengumpulan data pada [PRD Lampiran 19](./PRD.md#19-lampiran-data-yang-dibutuhka
 
 ## Fase 2: Komponen dasar dan layout
 
-- [ ] Komponen `Button`, `Chip` hari, `Badge` status, `Field`, `Alert`, `Card` ekskul, `Navbar`, `Footer` sesuai `DESAIN.md` bagian 5, lengkap dengan state hover, fokus, nonaktif, dan galat.
-- [ ] Navbar responsif dengan menu hamburger.
-- [ ] Halaman 404 dan halaman galat.
+- [x] Komponen `Button`, `Chip` hari, `Badge` status, `Field`, `Alert`, `Card` ekskul, `Navbar`, `Footer` sesuai `DESAIN.md` bagian 5, lengkap dengan state hover, fokus, nonaktif, dan galat.
+- [x] Navbar responsif dengan menu hamburger.
+- [x] Halaman 404 dan halaman galat.
 
 **Selesai bila:** semua komponen tampil benar di 360 px dan 1280 px; navigasi keyboard berfungsi. (FR: dasar untuk FR-01–03)
 
