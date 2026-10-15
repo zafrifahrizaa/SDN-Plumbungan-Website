@@ -70,7 +70,25 @@ Daftar fase dan kriteria selesai ada di [`docs/RENCANA-BUILD.md`](docs/RENCANA-B
 
 ## Menjalankan proyek
 
-Akan diisi pada Fase 0 dengan perintah yang benar-benar sudah berjalan: instalasi, variabel lingkungan (`.env.example`), menjalankan lokal, tes, dan build.
+1. Salin berkas lingkungan:
+   ```bash
+   cp .env.example .env.local
+   ```
+2. Instal dependensi:
+   ```bash
+   npm install
+   ```
+3. Jalankan server pengembangan lokal:
+   ```bash
+   npm run dev
+   ```
+   Buka [http://localhost:3000](http://localhost:3000) pada peramban.
+
+4. Perintah pemeriksaan kualitas:
+   - **Lint**: `npm run lint`
+   - **Typecheck**: `npm run typecheck`
+   - **Tes Unit**: `npm run test`
+   - **Build Produksi**: `npm run build`
 
 ## Konten dari sekolah
 

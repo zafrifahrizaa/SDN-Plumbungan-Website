@@ -1,0 +1,31 @@
+/* src/styles/tokens.css — satu-satunya tempat nilai visual didefinisikan */
+:root {
+  --color-primary: #4A7A3C;
+  --color-primary-hover: #3F6B32;
+  --color-primary-dark: #2D4A22;
+  --color-ink: #1A2415;
+  --color-muted: #55634F;
+  --color-paper: #FBF7EC;
+  --color-sage: #F2F6EF;
+  --color-sage-deep: #DCE8D3;
+  --color-surface: #FFFFFF;
+  --color-line: #DDE6D5;
+  --color-marigold: #F2B632;
+  --color-marigold-soft: #FBF1D2;
+  --color-marigold-ink: #7A5200;
+  --color-danger: #B3361F;
+  --color-danger-soft: #FDE9D9;
+  --color-danger-ink: #8A3B12;
+
+  --font-heading: var(--font-baloo), "Baloo 2", system-ui, sans-serif;
+  --font-body: var(--font-jakarta), "Plus Jakarta Sans", system-ui, sans-serif;
+
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
+  --radius-circle: 50%;
+
+  --shadow-soft: 0 12px 32px rgba(26, 36, 21, 0.08);
+  --shadow-lift: 0 16px 40px rgba(26, 36, 21, 0.12);
+}

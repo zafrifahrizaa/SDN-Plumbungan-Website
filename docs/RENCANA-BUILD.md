@@ -12,12 +12,12 @@ Pengumpulan data pada [PRD Lampiran 19](./PRD.md#19-lampiran-data-yang-dibutuhka
 
 ## Fase 0: Fondasi
 
-- [ ] Inisialisasi Next.js + TypeScript strict + Tailwind; ESLint dan Prettier aktif.
-- [ ] Pasang token dari `DESAIN.md` bagian 2 ke `src/styles/tokens.css` dan tema Tailwind. Tidak ada warna heksadesimal di luar berkas ini.
-- [ ] Font Baloo 2 dan Plus Jakarta Sans lewat `next/font`.
-- [ ] Skrip `lint`, `typecheck`, `test`, `build` berjalan hijau.
-- [ ] `.env.example` dan `.gitignore` benar; tidak ada rahasia di repo.
-- [ ] Perbarui bagian "Menjalankan proyek" di `README.md` dengan perintah yang benar-benar berjalan, dan bagian "Perintah" di `AGENTS.md`.
+- [x] Inisialisasi Next.js + TypeScript strict + Tailwind; ESLint dan Prettier aktif.
+- [x] Pasang token dari `DESAIN.md` bagian 2 ke `src/styles/tokens.css` dan tema Tailwind. Tidak ada warna heksadesimal di luar berkas ini.
+- [x] Font Baloo 2 dan Plus Jakarta Sans lewat `next/font`.
+- [x] Skrip `lint`, `typecheck`, `test`, `build` berjalan hijau.
+- [x] `.env.example` dan `.gitignore` benar; tidak ada rahasia di repo.
+- [x] Perbarui bagian "Menjalankan proyek" di `README.md` dengan perintah yang benar-benar berjalan, dan bagian "Perintah" di `AGENTS.md`.
 
 **Selesai bila:** halaman kosong dengan token dan font tampil benar, semua skrip hijau.
 

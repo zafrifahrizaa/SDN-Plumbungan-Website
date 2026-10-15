@@ -22,9 +22,9 @@ Next.js App Router + TypeScript strict · Tailwind CSS · Supabase (Postgres, Au
 
 > Diisi pada Fase 0 setelah proyek diinisialisasi. Perintah yang dicatat di sini harus sudah terbukti berjalan.
 
-- Instal: `TBD`
-- Dev: `TBD`
-- Lint: `TBD` · Typecheck: `TBD` · Tes: `TBD` · Build: `TBD`
+- Instal: `npm install`
+- Dev: `npm run dev`
+- Lint: `npm run lint` · Typecheck: `npm run typecheck` · Tes: `npm run test` · Build: `npm run build`
 
 ## Cara bekerja
 
