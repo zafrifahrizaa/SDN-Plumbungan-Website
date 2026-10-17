@@ -1,4 +1,5 @@
 import { StatusPendaftaran } from "../aturan";
+export type { StatusPendaftaran };
 
 export type Hari =
   | "Senin"
